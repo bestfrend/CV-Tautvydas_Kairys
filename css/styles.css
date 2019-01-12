@@ -1,0 +1,69 @@
+body {
+  background-color: #EAF6F6;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+hr {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%
+}
+
+a {
+  padding: 0.5%;
+}
+img:hover {
+  background-color: gold;
+}
+/********************Other class selectors**********************************/
+
+
+.Bacon {
+  background-color: green;
+}
+
+.broccoli {
+  background-color: red;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+/********************Other ID selectors**********************************/
+
+#Angela_foto {
+    height: 200px;
+    border-radius: 100%;
+}
+
+#heading {
+  color: blue;
+}
+
+#big {
+  font-size: 1000px;
+}
+
+#kiti {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 2px;
+  width: 100%
+}
+#daugiau {
+  text-align: center;
+
+}
